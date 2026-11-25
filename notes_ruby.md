@@ -4,6 +4,21 @@
 ruby filename.rb
 ```
 
+# Resources 
+
+[Methods for String](https://docs.ruby-lang.org/en/3.4/String.html)
+
+
+# Basic Data Types 
+
+1. numbers 
+2. strings
+3. symbols
+4. boolean 
+
+## numbers 
+
+## strings
 
 
 # Exercise 
