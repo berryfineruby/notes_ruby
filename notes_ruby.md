@@ -6,7 +6,10 @@ ruby filename.rb
 
 # Resources 
 
-[Methods for String](https://docs.ruby-lang.org/en/3.4/String.html)
+[Book: Introduction to Programming with Ruby
+by Launch School](https://launchschool.com/books/ruby)
+
+[Methods for (class) String](https://docs.ruby-lang.org/en/3.4/String.html)
 
 
 # Basic Data Types 
@@ -19,6 +22,60 @@ ruby filename.rb
 ## numbers 
 
 ## strings
+
+# Exercise 
+theodinproject - [launch school](https://launchschool.com/books/ruby/read/basics)
+
+### ex_03
+
+```
+movies = {:"Jaws" => "1975", 
+          :"Van Helsing" =>"2004", 
+          :"The Conjuring" => "2013", 
+          :"Hannibal" => "2001", 
+          :"An American Werewolf in London" => "1981"} 
+
+puts movies [:"Jaws"]
+puts movies [:"Van Helsing"]
+puts movies [:"The Conjuring"]
+puts movies [:"Hannibal"]
+puts moives [:"An American Werewolf in London"]
+
+```
+
+### ex_04
+```
+a = [1975, 2004, 2013, 2001, 1981]
+puts a 
+```
+
+berryfine code 
+ ```
+ dates = [1975, 2004, 2013, 2001, 1981]
+ puts dates[0]
+ puts dates[1]
+ puts dates[2]
+ puts dates[3]
+ puts dates[4]
+ ```
+
+ex_05 
+
+```
+numbers = [1, 2, 3, 4, 5, 6, 7, 8]
+factorial_five = numbers[0] * numbers[1] * numbers[2] * numbers[3] * numbers[4]
+puts factorial_five
+
+factorial_six = numbers[0] * numbers[1] * numbers[2] * numbers[3] * numbers[4] * numbers[5]
+puts factorial_six
+
+factorial_seven = factorial_six = numbers[0] * numbers[1] * numbers[2] * numbers[3] * numbers[4] * numbers[5] * numbers[6]
+puts factorial_seven
+
+factorial_eight = factorial_six = numbers[0] * numbers[1] * numbers[2] * numbers[3] * numbers[4] * numbers[5] * numbers[6] * numbers[7]
+puts factorial_eight
+
+```
 
 
 # Exercise 
