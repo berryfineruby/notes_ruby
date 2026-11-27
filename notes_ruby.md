@@ -59,7 +59,7 @@ berryfine code
  puts dates[4]
  ```
 
-ex_05 
+### ex_05 
 
 ```
 numbers = [1, 2, 3, 4, 5, 6, 7, 8]
@@ -75,6 +75,24 @@ puts factorial_seven
 factorial_eight = factorial_six = numbers[0] * numbers[1] * numbers[2] * numbers[3] * numbers[4] * numbers[5] * numbers[6] * numbers[7]
 puts factorial_eight
 
+```
+
+berryfine code 
+
+```
+puts 5 * 4 * 3 * 2 * 1 
+puts 6 * 5 * 4 * 3 * 2 * 1 
+puts 7 * 6 * 5 * 4 * 3 * 2 * 1 
+puts 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 
+
+```
+
+### ex_06
+
+```
+puts 3 * 3
+puts 5 * 5 
+puts 8 * 8 
 ```
 
 
