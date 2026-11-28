@@ -12,3 +12,7 @@ def say_bye
 end
 
 end
+
+greeter = Greeter.new("Pat")
+greeter.say_hi
+greeter.say_bye
