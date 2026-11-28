@@ -5,7 +5,7 @@ class Greeter
 '@name' is an instance variable?
 is it available to all the methods of the class? 
 =end
-end
+  end
 
 def say_hi
   puts "Hi #{@name}!"
